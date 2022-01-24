@@ -1,0 +1,12 @@
+.bg-danger, .bg-success {
+	padding: 0 5px;
+}
+
+a {
+	color: #EF1F2F;
+	text-decoration: none;
+}
+.form-group{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
